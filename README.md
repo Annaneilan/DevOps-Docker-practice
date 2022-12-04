@@ -13,4 +13,4 @@ Now when image is on hub we can run it on machine with special restrict on CPU a
 
     docker run -p 8080:8080 --cpus=".5" --memory="150m" evgeny2411/devops-nodeapp
 
-That's all. We can see working html page.
+That's all. We can see working HTML page.
