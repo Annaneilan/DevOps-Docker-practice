@@ -20,5 +20,10 @@
   "dependencies": {
     "express": "^4.18.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "standard": {
+  "ignore": [
+    "app.js"
+  ]
+}
 }
