@@ -23,7 +23,7 @@
   "devDependencies": {},
   "standard": {
   "ignore": [
-    "app.js"
+    "DevOps-Docer-practice/app.js"
   ]
 }
 }
